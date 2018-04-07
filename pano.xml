@@ -6,11 +6,11 @@
     <level width="467" preload="1" height="467" predecode="1"/>
     <preview strip="1" color="0x808080"/>
   </input>
-  <view pannorth="0" fovmode="0">
-    <start pan="0" projection="4" tilt="0" fov="70"/>
-    <flyin pan="0" projection="9" tilt="-90" fov="170"/>
-    <min pan="-180" tilt="-26.4646" fov="5"/>
-    <max pan="180" fovstereographic="270" tilt="26.4646" fov="120" fovfisheye="360"/>
+  <view pannorth="0" fovmode="1">
+    <start pan="0" projection="4" tilt="0" fov="86.0671"/>
+    <flyin pan="140.46" projection="4" tilt="0" fov="47"/>
+    <min pan="-180" tilt="-16" fov="37"/>
+    <max pan="180" fovstereographic="270" tilt="15" fov="120" fovfisheye="300"/>
   </view>
   <userdata description="" info="" latitude="" title="" comment="" longitude="" source="" copyright="" author="" tags="Panorama-01" customnodeid="" datetime="26.02.2018 18:19"/>
   <hotspots width="180" height="20" wordwrap="1">
@@ -19,5 +19,5 @@
   </hotspots>
   <media/>
   <transition enabled="0" zoomspeed="2" zoomout="0" zoomin="0" blendtime="1" blendcolor="0x000000" type="crossdissolve" softedge="0" zoomfov="20" zoomoutpause="1"/>
-  <control lockedkeyboardzoom="0" simulatemass="1" sensitivity="8" lockedkeyboard="0" contextfullscreen="0" contextprojections="0" lockedwheel="0" speedwheel="1" rubberband="0" dblclickfullscreen="0" hideabout="0" lockedmouse="0" invertwheel="0" invertcontrol="1"/>
+  <control lockedkeyboardzoom="1" simulatemass="1" sensitivity="11" lockedkeyboard="0" contextfullscreen="0" contextprojections="0" lockedwheel="0" speedwheel="1" rubberband="0" dblclickfullscreen="0" hideabout="0" lockedmouse="0" invertwheel="0" invertcontrol="1"/>
 </panorama>
