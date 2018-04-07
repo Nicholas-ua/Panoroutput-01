@@ -7,10 +7,10 @@
     <preview strip="1" color="0x808080"/>
   </input>
   <view pannorth="0" fovmode="1">
-    <start pan="0" projection="4" tilt="0" fov="86.0671"/>
-    <flyin pan="140.46" projection="4" tilt="0" fov="47"/>
-    <min pan="-180" tilt="-16" fov="37"/>
-    <max pan="180" fovstereographic="270" tilt="15" fov="120" fovfisheye="300"/>
+    <start pan="143.62" projection="4" tilt="0" fov="67.1145"/>
+    <flyin pan="136.44" projection="4" tilt="0.01" fov="52.9"/>
+    <min pan="-180" tilt="-26.4646" fov="37"/>
+    <max pan="180" fovstereographic="270" tilt="26.4646" fov="120" fovfisheye="300"/>
   </view>
   <userdata description="" info="" latitude="" title="" comment="" longitude="" source="" copyright="" author="" tags="Panorama-01" customnodeid="" datetime="26.02.2018 18:19"/>
   <hotspots width="180" height="20" wordwrap="1">
